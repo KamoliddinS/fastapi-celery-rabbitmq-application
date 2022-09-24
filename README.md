@@ -58,7 +58,9 @@ Dependencies will be installed from the Pipfile. Python version 3.9.2 is used fo
 ### Prerequisite
 1. Python 3.9.2
 2. Pipenv packaging tool
-3. RabbitMQ instance
+3. RabbitMQ instance to install brew install rabbitmq 
+brew services start rabbitmq to start instance 
+Username: guest, Password: guest) at http://localhost:15672 to Login defualt
 
 ### Run the Application
 
